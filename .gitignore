@@ -1,0 +1,7 @@
+*
+!.gitignore
+!package.json
+!*.js
+!LICENSE
+.DS_Store
+Thumbs.db
