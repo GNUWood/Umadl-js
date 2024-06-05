@@ -16,7 +16,7 @@
 
 確認済環境
 
-- macOS Sonoma 14.5
+- macOS 14.5 Sonoma
 - Node.js v20.13.1
   ```javascript
   node main.js
